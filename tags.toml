@@ -53,6 +53,12 @@ content = """
 6. Do not mention or DM individual members just for help. You may not get a reply quickly, if at all. Post your question in the public channels where more people can see it.
 """
 
+[code]
+keywords = ["code"]
+content = """ 
+We cannot help you if you just say "can someone help me" you need to add detail. Without your code or your error we aren't able to help you.
+"""
+
 [rule13]
 keywords = ["r13"]
 content = """
